@@ -1,7 +1,7 @@
 # digital_technologies
 laboratory work
 ## Состав бригады
-Шестаков
+Алексей Шестаков
 
 
 Данил Михеев
